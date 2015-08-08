@@ -1,4 +1,4 @@
-package net.spring;
+package net.echohool.spring;
 
 import org.apache.commons.lang3.Validate;
 import org.slf4j.Logger;
